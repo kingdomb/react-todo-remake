@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-todo-remake/static/css/main.d40dfe5b.chunk.css",
+    "main.js": "/react-todo-remake/static/js/main.cc4e2a81.chunk.js",
+    "main.js.map": "/react-todo-remake/static/js/main.cc4e2a81.chunk.js.map",
+    "runtime-main.js": "/react-todo-remake/static/js/runtime-main.42174a7b.js",
+    "runtime-main.js.map": "/react-todo-remake/static/js/runtime-main.42174a7b.js.map",
+    "static/js/2.f6673008.chunk.js": "/react-todo-remake/static/js/2.f6673008.chunk.js",
+    "static/js/2.f6673008.chunk.js.map": "/react-todo-remake/static/js/2.f6673008.chunk.js.map",
+    "index.html": "/react-todo-remake/index.html",
+    "precache-manifest.86402bdb2f3cb7465081c40cb099baa3.js": "/react-todo-remake/precache-manifest.86402bdb2f3cb7465081c40cb099baa3.js",
+    "service-worker.js": "/react-todo-remake/service-worker.js",
+    "static/css/main.d40dfe5b.chunk.css.map": "/react-todo-remake/static/css/main.d40dfe5b.chunk.css.map",
+    "static/js/2.f6673008.chunk.js.LICENSE.txt": "/react-todo-remake/static/js/2.f6673008.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42174a7b.js",
+    "static/js/2.f6673008.chunk.js",
+    "static/css/main.d40dfe5b.chunk.css",
+    "static/js/main.cc4e2a81.chunk.js"
+  ]
+}
